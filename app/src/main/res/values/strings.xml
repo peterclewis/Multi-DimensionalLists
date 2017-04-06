@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Multi-Dimensional Lists</string>
+    <string name="how_big_string">How big would you like the matrix to be?</string>
+    <string-array name="choices_for_spinner">
+        <item>2 by 2</item>
+        <item>3 by 3</item>
+        <item>4 by 4</item>
+        <item>5 by 5</item>
+        <item>6 by 6</item>
+        <item>7 by 7</item>
+        <item>8 by 8</item>
+        <item>9 by 9</item>
+        <item>10 by 10</item>
+    </string-array>
+</resources>
